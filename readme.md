@@ -12,5 +12,5 @@
 - You shouldn't flash this on any other GPUs, you risk permanent malfunction, the card not booting, or permanent damage
 - This BIOS supports Samsung memory only
 - Secure boot needs to be disabled for custom GPU BIOS
-- There are some memory errors at 2000MHz on my GPU. None at 1850MHz. You should check how your card's memory responds to these timings.
+- There are some memory errors at 2000MHz on my GPU. None at 1985MHz. You should check how your card's memory responds to these timings.
 - The max core voltage wasn't increased to RX580 default (actually 1200mV was unstable for me, too high)
